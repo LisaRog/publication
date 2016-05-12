@@ -24,6 +24,36 @@
 #content5-6 .mbr-article P {
   text-align: left;
 }
-#contacts1-19 STRONG {
+#footer1-2 P {
+  font-size: 9px;
+}
+#footer1-2 B {
+  font-size: 11px;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #7c706b;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #7c706b;
+}
+#header4-12 H1 {
+  color: #ffffff;
+}
+#msg-box2-16 .mbr-header .mbr-header__text {
+  color: #ffffff;
+  font-size: 20px;
   text-align: left;
+}
+#msg-box2-16 .mbr-article {
+  color: #ffffff;
+  text-align: left;
+}
+#footer1-2 P {
+  font-size: 9px;
+}
+#footer1-2 B {
+  font-size: 11px;
 }
