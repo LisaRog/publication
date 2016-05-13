@@ -330,7 +330,7 @@
           },
           "title": "CONTACT&nbsp;",
           "form": {
-            "action": "",
+            "action": "lisa.roggeband@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -399,12 +399,15 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Copyright (c) 2015 &nbsp;Lisa Roggeband &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><br></a></b>Dit werk valt onder een &nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal-licentie</a>.<br><span style=\"line-height: 1.5em; background-color: rgb(68, 68, 68);\">Terms of Use</span><span style=\"line-height: 1.5em;\">  | </span><span style=\"line-height: 1.5em; background-color: rgb(68, 68, 68);\">Privacy Policy</span><br>"
+          "text": "<b>Copyright (c) 2015 &nbsp;Lisa Roggeband &nbsp; &nbsp; &nbsp;</b><br><b>Alexianenplein 1 9000 Gent</b><b>&nbsp;</b><br><b>lisa.roggeband@gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;.<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><br></a></b>Dit werk valt onder een &nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal-licentie</a>.<br><span style=\"line-height: 1.5em; background-color: rgb(68, 68, 68);\">Terms of Use</span><span style=\"line-height: 1.5em;\">  | </span><span style=\"line-height: 1.5em; background-color: rgb(68, 68, 68);\">Privacy Policy</span><br>"
         }
       ]
     },
     "page1.html": {
-      "settings": {},
+      "settings": {
+        "title": "Works",
+        "meta_descr": "works\n"
+      },
       "components": [
         {
           "_styles": {
@@ -483,7 +486,7 @@
           "_params": {
             "showMeta": true
           },
-          "meta": "<span style=\"font-style: normal;\">Dromen en leed zie je vaker terug in haar werken.&nbsp;<br>De toeschouwer ervaart een surrealistsc desorienterend gevoel&nbsp;<br></span><br>"
+          "meta": "<span style=\"font-style: normal;\">Dromen en leed zie je vaker terug in haar werken.&nbsp;<br>De toeschouwer ervaart een surrealistisch en desorienterend gevoel&nbsp;<br></span><br>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -652,19 +655,19 @@
             "autoplay": true,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/lisa-roggeband-8-1089x722-58.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/lisa-roggeband-7-1089x722-42.jpg",
                 "contentAlign": "right",
-                "showTitle": false,
-                "title": "Slide 1",
+                "showTitle": true,
+                "title": "GLASS",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/lisa-roggeband-7-1089x722-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lisa-roggeband-8-1089x722-15.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -674,8 +677,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/lisa-roggeband-9-1089x722-56.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/lisa-roggeband-9-1089x722-58.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -689,7 +692,7 @@
             "bgColor": "#ffffff",
             "showBullets": true
           },
-          "_anchor": "slider-22",
+          "_anchor": "slider-23",
           "articleLayout": false
         },
         {
@@ -736,7 +739,7 @@
               {
                 "thumb": "@PROJECT_PATH@/assets/images/img-6211-1024-1024x768-17-1024x768-28.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-6211-1024-1024x768-17.jpg",
-                "active": false
+                "active": true
               },
               {
                 "thumb": "@PROJECT_PATH@/assets/images/img-6193-1024-1024x768-89-1024x768-95.jpg",
@@ -771,7 +774,7 @@
               {
                 "thumb": "@PROJECT_PATH@/assets/images/img-6210-1024-1024x768-51-1024x768-81.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-6210-1024-1024x768-51.jpg",
-                "active": true
+                "active": false
               }
             ],
             "bgColor": "#efefef",
@@ -802,7 +805,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Copyright (c) 2015 &nbsp;Lisa Roggeband &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><br></a></b>Dit werk valt onder een &nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal-licentie</a>.<br><span style=\"line-height: 1.5em; background-color: rgb(68, 68, 68);\">Terms of Use</span><span style=\"line-height: 1.5em;\">  | </span><span style=\"line-height: 1.5em; background-color: rgb(68, 68, 68);\">Privacy Policy</span><br>"
+          "text": "<b>Copyright (c) 2015 &nbsp;Lisa Roggeband &nbsp; &nbsp; &nbsp;</b><br><b>Alexianenplein 1 9000 Gent</b><b>&nbsp;</b><br><b>lisa.roggeband@gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;.<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><br></a></b>Dit werk valt onder een &nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal-licentie</a>.<br><span style=\"line-height: 1.5em; background-color: rgb(68, 68, 68);\">Terms of Use</span><span style=\"line-height: 1.5em;\">  | </span><span style=\"line-height: 1.5em; background-color: rgb(68, 68, 68);\">Privacy Policy</span><br>"
         }
       ]
     }
