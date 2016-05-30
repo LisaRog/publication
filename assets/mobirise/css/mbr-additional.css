@@ -24,11 +24,19 @@
 #content5-6 .mbr-article P {
   text-align: left;
 }
+#social-buttons1-18 .mbr-header__text {
+  font-size: 20px;
+}
 #footer1-2 P {
   font-size: 9px;
+  color: #000000;
 }
 #footer1-2 B {
   font-size: 11px;
+  color: #c1c1c1;
+}
+#footer1-2 SPAN {
+  color: #cccccc;
 }
 #menu-0 .mbr-brand__name {
   font-size: 16px;
@@ -42,6 +50,9 @@
 #header4-12 H1 {
   color: #ffffff;
 }
+#header3-20 P {
+  font-size: 17px;
+}
 #msg-box2-16 .mbr-header .mbr-header__text {
   color: #ffffff;
   font-size: 20px;
@@ -51,9 +62,26 @@
   color: #ffffff;
   text-align: left;
 }
+#header3-21 SPAN {
+  font-size: 17px;
+}
+#header3-21 P {
+  font-size: 17px;
+}
+#header3-19 SPAN {
+  font-size: 17px;
+}
+#header3-19 P {
+  font-size: 17px;
+}
 #footer1-2 P {
   font-size: 9px;
+  color: #000000;
 }
 #footer1-2 B {
   font-size: 11px;
+  color: #c1c1c1;
+}
+#footer1-2 SPAN {
+  color: #cccccc;
 }
